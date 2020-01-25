@@ -1,0 +1,21 @@
+.box{
+  width: 200px;
+  height: 200px;
+  background: green;
+  color: red;
+	padding: 15px;
+	margin-bottom: : 8px;
+}
+.child{
+	width: 100px;
+	height: 100px;
+	background: yellow ;
+	color:red;
+	padding: 15px;
+	margin-bottom: 25px;
+
+p{
+	font-family: monospace;
+	font-weight: 250;
+}	
+
